@@ -1,0 +1,12 @@
+html,body{
+	background:url(../img/xk.jpg) no-repeat;
+	background-size: cover;
+	width:100%;
+}
+.tit{	
+	width:200px;
+	font-size: 30px;
+	color:#FF4500;
+	margin:20px auto;
+}
+
